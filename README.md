@@ -26,4 +26,4 @@ ___
 ___
 
 [![hicarlodacuyan GitHub stats](https://github-readme-stats.vercel.app/api?username=hicarlodacuyan)](https://github.com/hicarlodacuyan/github-readme-stats)
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-p23994theme=dark&show_icons=true)
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-p23994)
