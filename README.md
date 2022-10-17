@@ -1,6 +1,6 @@
 ### Hi, there! I'm Ivan - a Web Developer.
 
-## I'm a Physiotheraphy graduate, currently trying to break into the IT industry.
+## I'm a Physiotheraphy graduate, currently working on a break into the IT industry.
 - :seedling: I'm currently self-studying [The Odin Project](https://www.theodinproject.com/) full-stack Ruby on Rails and JS Course
 - :mortar_board: I'm aiming to finish TOP and land my first developer job.
  
