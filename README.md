@@ -1,6 +1,6 @@
-### Hi, there! I'm Ivan - a Web Developer.
+### Hi, there! I'm Ivan - a Software Developer.
 
-## I'm a physiotheraphy graduate, currently working on a break into the IT industry.
+## Currently working on a break into the IT industry.
 - :seedling: I'm currently self-studying [The Odin Project](https://www.theodinproject.com/) full-stack Ruby on Rails and JS Course
 - :mortar_board: I'm aiming to finish TOP and land my first developer job.
  
