@@ -1,4 +1,3 @@
-### Hi, there! I'm Ivan - a Software Developer.
 
 ### Connect with me:
 
